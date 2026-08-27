@@ -1,0 +1,5 @@
+invoice_number,client,period,issue_date,due_date,hours,subtotal,tax,total,currency,file
+INV-2026-07-001,Acme Corp,July 2026,2026-07-31,2026-08-14,43.75,4156.25,831.25,4987.50,GBP,invoices/2026-07/Acme-Corp-INV-2026-07-001.pdf
+INV-2026-07-002,Globex Industries,July 2026,2026-07-31,2026-08-30,25.75,3090.00,618.00,3708.00,GBP,invoices/2026-07/Globex-Industries-INV-2026-07-002.pdf
+INV-2026-07-003,Initech LLC,July 2026,2026-07-31,2026-08-14,32.25,3547.50,0.00,3547.50,GBP,invoices/2026-07/Initech-LLC-INV-2026-07-003.pdf
+INV-2026-07-004,Umbrella Health,July 2026,2026-07-31,2026-08-14,51.5,7467.50,1493.50,8961.00,GBP,invoices/2026-07/Umbrella-Health-INV-2026-07-004.pdf

@@ -1,0 +1,27 @@
+Date,Client,Project,Task,Description,User,Duration (h),Billable
+2026-07-01,Acme Corp,Retainer,Support,Weekly check-in call,M. Okafor,2,Yes
+2026-07-01,Initech LLC,Mobile App,Development,Crash fixes,M. Okafor,0.75,Yes
+2026-07-01,Umbrella Health,Compliance Audit,Consulting,Remediation plan,S. Lindqvist,6,Yes
+2026-07-02,,Website Redesign,Design,Responsive pass,D. Chaudhry,1.5,Yes
+2026-07-02,Initech LLC,Mobile App,QA,Regression suite,J. Reyes,5,Yes
+2026-07-02,Umbrella Health,Compliance Audit,Consulting,Remediation plan,S. Lindqvist,2.5,Yes
+2026-07-07,Acme Corp,Website Redesign,Design,Homepage wireframes,J. Reyes,7.5,Yes
+2026-07-07,Soylent Corp,Data Migration,Project Management,Status report,M. Okafor,6,Yes
+2026-07-08,Acme Corp,Retainer,Support,Weekly check-in call,J. Reyes,7.5,Yes
+2026-07-09,Acme Corp,Retainer,Support,Weekly check-in call,J. Reyes,,Yes
+2026-07-09,Globex Industries,Data Migration,Project Management,Status report,M. Okafor,2,Yes
+2026-07-09,Umbrella Health,Compliance Audit,Consulting,Remediation plan,J. Reyes,7.5,Yes
+2026-07-10,Acme Corp,Website Redesign,Design,Component library,J. Reyes,half a day,Yes
+2026-07-10,Initech LLC,Mobile App,Development,Offline sync,J. Reyes,4,Yes
+2026-07-13,Acme Corp,Retainer,Support,Bug triage,J. Reyes,0.75,Yes
+2026-07-13,ACME Corp.,Compliance Audit,Consulting,Gap analysis workshop,J. Reyes,6,Yes
+2026-07-14,Initech LLC,Mobile App,QA,Regression suite,S. Lindqvist,3.5,Yes
+2026-07-14,Umbrella Health,Compliance Audit,Consulting,Gap analysis workshop,M. Okafor,7:30,Yes
+2026-07-15,Globex Industries,Data Migration,Engineering,Validation scripts,J. Reyes,5,Yes
+,Umbrella Health,Compliance Audit,Consulting,Remediation plan,M. Okafor,4,Yes
+2026-07-17,Acme Corp,Website Redesign,Development,CMS integration,D. Chaudhry,2,Yes
+2026-07-17,Globex Industries,Data Migration,Project Management,Status report,M. Okafor,0,Yes
+2026-07-17,Initech LLC,Mobile App,Development,Push notifications,D. Chaudhry,3.5,Yes
+2026-07-20,,Data Migration,Project Management,Status report,D. Chaudhry,2,Yes
+2026-07-20,Initech LLC,Mobile App,Development,Offline sync,D. Chaudhry,-2,Yes
+2026-07-21,Acme Corp,Retainer,Support,Bug triage,M. Okafor,0.75,Yes

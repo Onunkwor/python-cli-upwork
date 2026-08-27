@@ -1,0 +1,45 @@
+Date,Client,Project,Task,Description,User,Duration (h),Billable
+2026-07-01,Acme Corp,Retainer,Support,Weekly check-in call,M. Okafor,2,Yes
+2026-07-01,Initech LLC,Mobile App,Development,Crash fixes,M. Okafor,0.75,Yes
+2026-07-01,Umbrella Health,Compliance Audit,Consulting,Remediation plan,S. Lindqvist,6,Yes
+2026-07-02,Acme Corp,Website Redesign,Design,Responsive pass,D. Chaudhry,1.5,Yes
+2026-07-02,Initech LLC,Mobile App,QA,Regression suite,J. Reyes,5,Yes
+2026-07-02,Umbrella Health,Compliance Audit,Consulting,Remediation plan,S. Lindqvist,2.5,Yes
+2026-07-07,Acme Corp,Website Redesign,Design,Homepage wireframes,J. Reyes,7.5,Yes
+2026-07-07,Globex Industries,Data Migration,Project Management,Status report,M. Okafor,6,Yes
+2026-07-08,Acme Corp,Retainer,Support,Weekly check-in call,J. Reyes,7.5,Yes
+2026-07-09,Acme Corp,Retainer,Support,Weekly check-in call,J. Reyes,4,Yes
+2026-07-09,Globex Industries,Data Migration,Project Management,Status report,M. Okafor,2,Yes
+2026-07-09,Umbrella Health,Compliance Audit,Consulting,Remediation plan,J. Reyes,7.5,Yes
+2026-07-10,Acme Corp,Website Redesign,Design,Component library,J. Reyes,3.5,Yes
+2026-07-10,Initech LLC,Mobile App,Development,Offline sync,J. Reyes,4,Yes
+2026-07-13,Acme Corp,Retainer,Support,Bug triage,J. Reyes,0.75,Yes
+2026-07-13,Umbrella Health,Compliance Audit,Consulting,Gap analysis workshop,J. Reyes,6,Yes
+2026-07-14,Initech LLC,Mobile App,QA,Regression suite,S. Lindqvist,3.5,Yes
+2026-07-14,Umbrella Health,Compliance Audit,Consulting,Gap analysis workshop,M. Okafor,0.75,Yes
+2026-07-15,Globex Industries,Data Migration,Engineering,Validation scripts,J. Reyes,5,Yes
+2026-07-16,Umbrella Health,Compliance Audit,Consulting,Remediation plan,M. Okafor,4,Yes
+2026-07-17,Acme Corp,Website Redesign,Development,CMS integration,D. Chaudhry,2,Yes
+2026-07-17,Globex Industries,Data Migration,Project Management,Status report,M. Okafor,4,Yes
+2026-07-17,Initech LLC,Mobile App,Development,Push notifications,D. Chaudhry,3.5,Yes
+2026-07-20,Globex Industries,Data Migration,Project Management,Status report,D. Chaudhry,2,Yes
+2026-07-20,Initech LLC,Mobile App,Development,Offline sync,D. Chaudhry,6,Yes
+2026-07-21,Acme Corp,Retainer,Support,Bug triage,M. Okafor,0.75,Yes
+2026-07-21,Umbrella Health,Compliance Audit,Consulting,Gap analysis workshop,D. Chaudhry,3,Yes
+2026-07-22,Acme Corp,Website Redesign,Design,Component library,S. Lindqvist,1.25,Yes
+2026-07-23,Acme Corp,Website Redesign,Development,Build homepage template,S. Lindqvist,2,Yes
+2026-07-23,Umbrella Health,Compliance Audit,Consulting,Policy review,D. Chaudhry,1.25,Yes
+2026-07-24,Acme Corp,Retainer,Support,Bug triage,J. Reyes,1.5,Yes
+2026-07-24,Globex Industries,Data Migration,Project Management,Cutover planning,J. Reyes,0.75,Yes
+2026-07-27,Globex Industries,Data Migration,Project Management,Status report,S. Lindqvist,1.25,Yes
+2026-07-27,Umbrella Health,Compliance Audit,Consulting,Policy review,S. Lindqvist,7.5,Yes
+2026-07-28,Acme Corp,Website Redesign,Development,Accessibility fixes,J. Reyes,6,Yes
+2026-07-28,Globex Industries,Data Migration,Project Management,Cutover planning,D. Chaudhry,1.25,Yes
+2026-07-28,Initech LLC,Mobile App,QA,Regression suite,S. Lindqvist,6,Yes
+2026-07-28,Umbrella Health,Compliance Audit,Consulting,Policy review,J. Reyes,3.5,Yes
+2026-07-29,Acme Corp,Retainer,Support,Bug triage,J. Reyes,3.5,Yes
+2026-07-29,Globex Industries,Data Migration,Engineering,Schema mapping,J. Reyes,3.5,Yes
+2026-07-29,Umbrella Health,Compliance Audit,Consulting,Gap analysis workshop,J. Reyes,4,Yes
+2026-07-30,Initech LLC,Mobile App,QA,Regression suite,M. Okafor,3.5,Yes
+2026-07-30,Umbrella Health,Compliance Audit,Consulting,Gap analysis workshop,D. Chaudhry,2.5,Yes
+2026-07-31,Umbrella Health,Compliance Audit,Consulting,Gap analysis workshop,S. Lindqvist,3,Yes

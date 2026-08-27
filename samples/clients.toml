@@ -1,0 +1,65 @@
+# invoicer configuration -- sample
+# Edit the rates, then run:  invoicer check samples/timesheet-2026-07.csv -c samples/clients.toml
+
+[company]
+name = "Northgate Studio Ltd"
+address_lines = ["14 Cargill Road", "Bristol", "BS1 4TR", "United Kingdom"]
+email = "accounts@northgatestudio.com"
+phone = "+44 117 496 0182"
+tax_id = "VAT GB428 9917 03"
+# logo = "logo.png"
+
+[invoice]
+prefix = "INV"
+number_format = "{prefix}-{period}-{seq:03d}"
+payment_terms_days = 14
+currency = "GBP"
+currency_symbol = "£"
+notes = "Please quote the invoice number with your payment. Bank details are on file; contact accounts@northgatestudio.com if you need them again."
+footer = "Northgate Studio Ltd · Registered in England & Wales · 09482217"
+# One invoice line per unique combination of these fields:
+group_by = ["project", "task"]
+hours_decimals = 2
+
+# Column mapping. Detected automatically for standard exports; set it here when
+# your tracker uses different header names.
+[columns]
+date = "Date"
+client = "Client"
+project = "Project"
+task = "Task"
+description = "Description"
+hours = "Duration (h)"
+person = "User"
+
+[clients."Acme Corp"]
+rate = 95.00
+bill_to = ["Acme Corp", "Attn: Accounts Payable", "1 Sherwood Park", "Nottingham, NG15 0DT"]
+email = "ap@acme.example"
+tax_rate = 0.20
+tax_label = "VAT"
+aliases = ["Acme", "ACME Corp.", "Acme Corporation"]
+
+[clients."Globex Industries"]
+rate = 120.00
+bill_to = ["Globex Industries plc", "Finance Department", "22 Kingsway", "London, WC2B 6LE"]
+email = "invoices@globex.example"
+tax_rate = 0.20
+tax_label = "VAT"
+payment_terms_days = 30
+aliases = ["Globex"]
+
+[clients."Initech LLC"]
+rate = 110.00
+bill_to = ["Initech LLC", "455 Technology Drive", "Austin, TX 78759", "United States"]
+email = "payables@initech.example"
+aliases = ["Initech"]
+notes = "US entity - invoiced in GBP, no VAT charged (reverse charge applies)."
+
+[clients."Umbrella Health"]
+rate = 145.00
+bill_to = ["Umbrella Health Group", "Procurement", "8 Rowan House", "Leeds, LS1 5DL"]
+email = "procurement@umbrella.example"
+tax_rate = 0.20
+tax_label = "VAT"
+aliases = ["Umbrella", "Umbrella Health Group"]
